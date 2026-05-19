@@ -35,6 +35,9 @@ Delivery
 
 ## Screenshots
 
+# ER Diagram
+
+![ER Diagram](ER_Diagram/ER Diagrams.png)
 
 ## Future Improvements
 
